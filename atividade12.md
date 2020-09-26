@@ -1,5 +1,3 @@
-# Atividade12
-
 # ESTRUTURA DO HTML
 
 ## Definição
