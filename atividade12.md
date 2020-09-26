@@ -7,8 +7,6 @@
 Hypertext Markup Language (ou HTML, para simplificar), é uma linguagem utilizada para definir como determinado conteúdo será exibido em uma página web.
 Possui as extensões **.htm** ou **.html**, e são utilizados editores de texto para a criação desses arquivos.
 
-*se der colocar imagens de editores de texto
-
 ---
 
 ## Estrutura
